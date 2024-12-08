@@ -1,6 +1,4 @@
-<h1 align="left">About me</h1>
-
-###
+Bem-vindo(a) ao meu GitHub! 🚀 Projetos que conectam logística, tecnologia e inovação. Transformando ideias em soluções eficientes.🌟
 
 <h1 align="left">Embaixadora DIO Campus Expert</h1>
 
