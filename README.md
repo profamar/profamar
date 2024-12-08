@@ -1,5 +1,6 @@
 # Bem-vindo(a) ao meu GitHub! 🚀
-## Projetos que conectam logística, tecnologia e inovação. Ideias em ação.🌟
+## Transformando ideias em soluções. Explore projetos que refletem meu compromisso com eficiência e inovação. 
+## Vamos construir o futuro juntos! 🌟
 
 <h1 align="left">Embaixadora DIO Campus Expert</h1>
 
