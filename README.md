@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left"></h2>
 
 ###
 
