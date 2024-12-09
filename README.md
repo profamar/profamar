@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="left">Techs</h1>
+<h1 align="left"></h1>
 
 ###
 
