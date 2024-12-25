@@ -3,8 +3,8 @@
 ## Sou movida pelo aprendizado contínuo, buscando constantemente explorar novas abordagens em IA.
 "O maior inimigo do conhecimento não é a ignorância, mas a ilusão do conhecimento." – Stephen Hawking 🌟
 
- ### 🚀 Participações e Conquistas
+ ## Participações e Conquistas
 
- #  Bootcamps e Cursos:
+ # Bootcamps e Cursos:
 
  <img src="https://assets.dio.me/1sqn3R--VWHRW4eb4-KnqeFKGFbnaxNKz3Q883q-HkI/f:webp/h:120/q:80/L3RyYWNrcy9lMGI0YWQ1MS1hNGM3LTRlNjEtYTY4My1jMDRmNmQzNzZlOWMucG5n" height="50"></a>
