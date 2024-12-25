@@ -5,4 +5,4 @@
 
 ## 🚀 Participações e Conquistas
 
-- [<img src="https://assets.dio.me/1sqn3R--VWHRW4eb4-KnqeFKGFbnaxNKz3Q883q-HkI/f:webp/h:120/q:80/L3RyYWNrcy9lMGI0YWQ1MS1hNGM3LTRlNjEtYTY4My1jMDRmNmQzNzZlOWMucG5n" height="50"></a>]
+- <img src="https://assets.dio.me/1sqn3R--VWHRW4eb4-KnqeFKGFbnaxNKz3Q883q-HkI/f:webp/h:120/q:80/L3RyYWNrcy9lMGI0YWQ1MS1hNGM3LTRlNjEtYTY4My1jMDRmNmQzNzZlOWMucG5n" height="50"></a>
