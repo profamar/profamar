@@ -7,4 +7,5 @@
 
  ## Bootcamps e Cursos:
 
- <img src="https://assets.dio.me/1sqn3R--VWHRW4eb4-KnqeFKGFbnaxNKz3Q883q-HkI/f:webp/h:120/q:80/L3RyYWNrcy9lMGI0YWQ1MS1hNGM3LTRlNjEtYTY4My1jMDRmNmQzNzZlOWMucG5n" height="50"></a>
+ <img src="https://assets.dio.me/1sqn3R--VWHRW4eb4-KnqeFKGFbnaxNKz3Q883q-HkI/f:webp/h:120/q:80/L3RyYWNrcy9lMGI0YWQ1MS1hNGM3LTRlNjEtYTY4My1jMDRmNmQzNzZlOWMucG5n" height="60"></a>
+ <img src="https://assets.dio.me/XeSGwYIOI2Xvl-7_WTEcgvxCHX-BBwsBtkI5fY7ParU/f:webp/h:120/q:80/L3RyYWNrcy80ZGViNDBkZS03ZmI2LTQyMjktYTZhNS05NzE4NTM4MWQ1NzcucG5n" height="60"></a>
